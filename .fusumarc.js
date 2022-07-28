@@ -1,4 +1,4 @@
-const baseUrl = 'https://yumekiti.github.io/slides/';
+const baseUrl = 'https://yumekiti.github.io/fusuma_minimum/';
 
 module.exports = {
   meta: {
